@@ -23,7 +23,7 @@
 # Testimony Page
 <img src="ProjectImages/Testimony.jpg" width="400">
 
-# Contactus Page
+# Contact Page
 <img src="ProjectImages/Contactus.jpg" width="400">
 
 # Footer Page
