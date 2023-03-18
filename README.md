@@ -1,6 +1,6 @@
 # SoftCompany
 
-## Complete Responsive Software Website Website in asp.net .
+## Complete Responsive Website in asp.net .
 - Asp.net
 - HTML
 - CSS
